@@ -18,6 +18,7 @@ public class Attendance {
 		}
 		else if(percent < 75) {
 			System.out.println(percent+"Not allowed to class");
+			System.out.println();
 		}
 		
 	}
